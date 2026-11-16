@@ -3,6 +3,14 @@
 
 Queda pendiente de desarrollar toda la lógica, pero aquí se detallara más información al respecto.
 
+#### **Librerias utilizadas:**
+
+1. PyGame
+2. Sys
+3. Time
+4. Random
+
+
 ---
 
 ### Objetivos
